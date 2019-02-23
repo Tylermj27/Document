@@ -1,0 +1,7 @@
+C:\Users\tyson\source\repos\DocumentProject\DocumentProject\obj\Debug\DocumentProject.csprojAssemblyReference.cache
+C:\Users\tyson\source\repos\DocumentProject\DocumentProject\obj\Debug\DocumentProject.csproj.CoreCompileInputs.cache
+C:\Users\tyson\source\repos\DocumentProject\DocumentProject\bin\Debug\DocumentProject.exe.config
+C:\Users\tyson\source\repos\DocumentProject\DocumentProject\bin\Debug\DocumentProject.exe
+C:\Users\tyson\source\repos\DocumentProject\DocumentProject\bin\Debug\DocumentProject.pdb
+C:\Users\tyson\source\repos\DocumentProject\DocumentProject\obj\Debug\DocumentProject.exe
+C:\Users\tyson\source\repos\DocumentProject\DocumentProject\obj\Debug\DocumentProject.pdb
